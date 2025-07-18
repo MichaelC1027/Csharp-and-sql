@@ -1,0 +1,15 @@
+D:\C# Learning\CrashCourse\CrashCourse\bin\Debug\net9.0\CrashCourse.exe
+D:\C# Learning\CrashCourse\CrashCourse\bin\Debug\net9.0\CrashCourse.deps.json
+D:\C# Learning\CrashCourse\CrashCourse\bin\Debug\net9.0\CrashCourse.runtimeconfig.json
+D:\C# Learning\CrashCourse\CrashCourse\bin\Debug\net9.0\CrashCourse.dll
+D:\C# Learning\CrashCourse\CrashCourse\bin\Debug\net9.0\CrashCourse.pdb
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.AssemblyInfoInputs.cache
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.AssemblyInfo.cs
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.csproj.CoreCompileInputs.cache
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.sourcelink.json
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.dll
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\refint\CrashCourse.dll
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.pdb
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\CrashCourse.genruntimeconfig.cache
+D:\C# Learning\CrashCourse\CrashCourse\obj\Debug\net9.0\ref\CrashCourse.dll
