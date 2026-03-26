@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Learning\\CrashCourse\\CrashCourse\\CrashCourse.csproj": {}
+    "/Users/lsx/Documents/Csharp-and-sql/CrashCourse/CrashCourse.csproj": {}
   },
   "projects": {
-    "D:\\C# Learning\\CrashCourse\\CrashCourse\\CrashCourse.csproj": {
+    "/Users/lsx/Documents/Csharp-and-sql/CrashCourse/CrashCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Learning\\CrashCourse\\CrashCourse\\CrashCourse.csproj",
+        "projectUniqueName": "/Users/lsx/Documents/Csharp-and-sql/CrashCourse/CrashCourse.csproj",
         "projectName": "CrashCourse",
-        "projectPath": "D:\\C# Learning\\CrashCourse\\CrashCourse\\CrashCourse.csproj",
-        "packagesPath": "C:\\Users\\lsxki\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Learning\\CrashCourse\\CrashCourse\\obj\\",
+        "projectPath": "/Users/lsx/Documents/Csharp-and-sql/CrashCourse/CrashCourse.csproj",
+        "packagesPath": "/Users/lsx/.nuget/packages/",
+        "outputPath": "/Users/lsx/Documents/Csharp-and-sql/CrashCourse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lsxki\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lsx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\lsxki\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/lsx/.dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
